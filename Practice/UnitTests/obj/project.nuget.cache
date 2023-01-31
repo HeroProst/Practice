@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sUHivUqN9ezqmyZ3ZKNTktsNAEhwyDJDndAZBOCvas1bn+7gQHXe3YWTHYEyxHljcel/cvdjS1M1NHo7n/ng6A==",
+  "dgSpecHash": "/7rbEUbgUA6neLeovwUwLK02AEXZ6VE9BLntm8oo0gyf2Fi7DbaC+8SNi9KUdot7qiPeZLwDrGTce/tsHUVmpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HeroProst\\source\\repos\\Practice\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "D:\\Git\\Practice\\Practice\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HeroProst\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\HeroProst\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

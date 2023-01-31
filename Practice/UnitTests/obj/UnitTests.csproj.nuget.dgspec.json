@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HeroProst\\source\\repos\\Practice\\UnitTests\\UnitTests.csproj": {}
+    "D:\\Git\\Practice\\Practice\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj": {
+    "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj",
+        "projectUniqueName": "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj",
+        "projectPath": "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj",
         "packagesPath": "C:\\Users\\HeroProst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\obj\\",
+        "outputPath": "D:\\Git\\Practice\\Practice\\Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HeroProst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\HeroProst\\source\\repos\\Practice\\UnitTests\\UnitTests.csproj": {
+    "D:\\Git\\Practice\\Practice\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HeroProst\\source\\repos\\Practice\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "D:\\Git\\Practice\\Practice\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\Users\\HeroProst\\source\\repos\\Practice\\UnitTests\\UnitTests.csproj",
+        "projectPath": "D:\\Git\\Practice\\Practice\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\HeroProst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HeroProst\\source\\repos\\Practice\\UnitTests\\obj\\",
+        "outputPath": "D:\\Git\\Practice\\Practice\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HeroProst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj": {
-                "projectPath": "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj"
+              "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj": {
+                "projectPath": "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj"
               }
             }
           }

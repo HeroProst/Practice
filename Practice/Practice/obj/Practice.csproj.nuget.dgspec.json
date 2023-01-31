@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj": {}
+    "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj": {
+    "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj",
+        "projectUniqueName": "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\Practice.csproj",
+        "projectPath": "D:\\Git\\Practice\\Practice\\Practice\\Practice.csproj",
         "packagesPath": "C:\\Users\\HeroProst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HeroProst\\source\\repos\\Practice\\Practice\\obj\\",
+        "outputPath": "D:\\Git\\Practice\\Practice\\Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HeroProst\\AppData\\Roaming\\NuGet\\NuGet.Config",
